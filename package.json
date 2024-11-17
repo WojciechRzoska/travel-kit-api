@@ -1,0 +1,7 @@
+{
+  "name": "travel-kit-api",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Wojciech Rzóska",
+  "license": "MIT"
+}
